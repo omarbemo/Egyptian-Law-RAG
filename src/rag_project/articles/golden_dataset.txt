@@ -1,0 +1,23 @@
+GOLDEN DATASET - EGYPTIAN CIVIL CODE (English + Arabic)
+Source: 1576751803.pdf (bilingual edition; English questions/answers follow the English column, Arabic ones follow the Arabic column)
+Entries: 20   |   Fields: ID, Question (EN), Answer (EN), Question (AR), Answer (AR), Source
+Source = the article number the answer is based on. Use it as ground truth when checking retrieval (did the right article come back?).
+
+========================================================================
+
+ID: 01
+Question (EN): When there is no applicable legislative provision, what sources must a judge rely on, and in what order?
+Answer (EN): The judge decides first according to custom. If there is no custom, he applies the principles of Islamic (Moslem) law. If there are no such principles either, he applies the principles of natural justice and the rules of equity.
+Question (AR): عند عدم وجود نص تشريعي يمكن تطبيقه، إلى أي مصادر يرجع القاضي وبأي ترتيب؟
+Answer (AR): يحكم القاضي أولاً بمقتضى العرف، فإذا لم يوجد عرف فبمقتضى مبادئ الشريعة الإسلامية، فإذا لم توجد فبمقتضى مبادئ القانون الطبيعي وقواعد العدالة.
+Source: Article 1 / المادة 1
+
+------------------------------------------------------------------------
+
+ID: 02
+Question (EN): In which cases is the exercise of a right considered unlawful?
+Answer (EN): The exercise of a right is unlawful in three cases: (a) if its sole aim is to harm another person; (b) if the benefit it seeks is out of proportion to the harm it causes another person; (c) if the benefit it seeks is unlawful.
+Question (AR): متى يكون استعمال الحق غير مشروع؟
+Answer (AR): يكون استعمال الحق غير مشروع في ثلاث حالات: (أ) إذا لم يقصد به سوى الإضرار بالغير؛ (ب) إذا كانت المصالح التي يرمي إلى تحقيقها قليلة الأهمية بحيث لا تتناسب البتة مع ما يصيب الغير من ضرر بسببها؛ (ج) إذا كانت المصالح التي يرمي إلى تحقيقها غير مشروعة.
+Source: Article 5 / المادة 5
+
